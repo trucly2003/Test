@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Branch</name>
+   <tag></tag>
+   <elementGuidId>d81b0776-0493-43e4-80aa-760bf6d57d76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-tns-c53-6.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Route Information'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Branch&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c0a96b1-bd6c-420f-a010-7b6d29e6a10a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c53-6 ng-star-inserted</value>
+      <webElementGuid>64965939-d8c5-4568-a503-82f674b114c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Branch</value>
+      <webElementGuid>f0f40c67-7c85-4455-95f2-218a81e70adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/pages/catalogue/transport-network/branch</value>
+      <webElementGuid>e541a586-081a-4b72-8bdf-4eb5617d4adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Branch</value>
+      <webElementGuid>006fd20e-0049-4e9d-a800-413c24d6ab52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;nb-theme-default        pace-done&quot;]/ngx-app[1]/ngx-pages[1]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/nb-sidebar[@class=&quot;menu-sidebar left expanded&quot;]/div[@class=&quot;main-container main-container-fixed&quot;]/div[@class=&quot;scrollable&quot;]/ngx-left-menu[1]/nb-menu[1]/ul[@class=&quot;menu-items&quot;]/li[@class=&quot;menu-item ng-tns-c53-1 ng-star-inserted&quot;]/ul[@class=&quot;menu-items ng-tns-c53-1 ng-trigger ng-trigger-toggle ng-star-inserted expanded&quot;]/li[@class=&quot;menu-item ng-tns-c53-2 ng-tns-c53-1 ng-star-inserted&quot;]/ul[@class=&quot;menu-items ng-tns-c53-2 ng-trigger ng-trigger-toggle ng-star-inserted expanded&quot;]/li[@class=&quot;menu-item ng-tns-c53-6 ng-tns-c53-2 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c53-6 ng-star-inserted&quot;]</value>
+      <webElementGuid>5fb9590b-8977-412a-b4e8-0d8d5974ce4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Route Information'])[1]/following::a[1]</value>
+      <webElementGuid>7156ea55-0a6c-4f72-824c-ec71d302a9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distance Between Places'])[1]/following::a[2]</value>
+      <webElementGuid>75faf631-4783-4e2c-b7e0-3dd082e51799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrative Units'])[1]/preceding::a[1]</value>
+      <webElementGuid>bf5fd6d6-9e43-4fbf-ac9b-90126e93b11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/pages/catalogue/transport-network/branch')]</value>
+      <webElementGuid>bead516b-1f7a-4611-bf5f-80954f1704d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/ul/li[4]/a</value>
+      <webElementGuid>72e4f9fa-b551-48d1-9067-a6b8da1f7f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Branch' and @href = '#/pages/catalogue/transport-network/branch' and (text() = 'Branch' or . = 'Branch')]</value>
+      <webElementGuid>ee07229b-ea9c-4408-9275-2307ca24b443</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

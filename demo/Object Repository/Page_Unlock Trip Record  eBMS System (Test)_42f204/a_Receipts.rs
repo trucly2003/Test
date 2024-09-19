@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Receipts</name>
+   <tag></tag>
+   <elementGuidId>4ea5a92b-3c76-4f9c-bb84-ce9b8c52c935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-tns-c53-75.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlock Trip Record'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Receipts&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc307e97-5431-4935-8e70-98ba4bc25c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c53-75 ng-star-inserted</value>
+      <webElementGuid>ec5961f0-a11e-448f-a704-a6c2ef6acd77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Receipts</value>
+      <webElementGuid>574b2dd0-ced0-4244-9bd0-f39927823dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/pages/accounting/receipt</value>
+      <webElementGuid>4a4b9d30-7574-4972-8374-251252844191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Receipts</value>
+      <webElementGuid>f4223c80-6b66-4cab-8964-4067eea0e789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;nb-theme-default                                                                                                             pace-done pace-done&quot;]/ngx-app[1]/ngx-pages[1]/ngx-one-column-layout[1]/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/nb-sidebar[@class=&quot;menu-sidebar left expanded&quot;]/div[@class=&quot;main-container main-container-fixed&quot;]/div[@class=&quot;scrollable&quot;]/ngx-left-menu[1]/nb-menu[1]/ul[@class=&quot;menu-items&quot;]/li[@class=&quot;menu-item ng-tns-c53-65 ng-star-inserted&quot;]/ul[@class=&quot;menu-items ng-tns-c53-65 ng-trigger ng-trigger-toggle ng-star-inserted expanded&quot;]/li[@class=&quot;menu-item ng-tns-c53-75 ng-tns-c53-65 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c53-75 ng-star-inserted&quot;]</value>
+      <webElementGuid>6f635264-61bf-4c74-a528-3d1286a4ba12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlock Trip Record'])[1]/following::a[1]</value>
+      <webElementGuid>0fa524c1-9a38-4fb6-9407-ca9b081fdfdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fuel Payment Request'])[1]/following::a[2]</value>
+      <webElementGuid>271aa94b-ea18-4f91-901d-a6fcaba4d2d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporting'])[1]/preceding::a[1]</value>
+      <webElementGuid>9385b503-e027-4b10-b0b3-68c6b4b4cfe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/pages/accounting/receipt')]</value>
+      <webElementGuid>eb674c45-ddee-48c5-b66b-343e20f58060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/li[10]/a</value>
+      <webElementGuid>3a27fbab-76fb-4318-a0d1-0bdc27d66405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Receipts' and @href = '#/pages/accounting/receipt' and (text() = 'Receipts' or . = 'Receipts')]</value>
+      <webElementGuid>60f3d07e-7f64-44ee-94bc-8f74b15cff0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
